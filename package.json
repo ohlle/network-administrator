@@ -1,0 +1,36 @@
+{
+  "name": "everysport-scoreboard-loader",
+  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "http://git.menmo.se:everysport/scoreboard-frontend.git"
+  },
+  "devDependencies": {
+    "grunt": "~0.4.5",
+    "matchdep": "",
+    "grunt-contrib-jshint": "~0.10.0",
+    "grunt-contrib-nodeunit": "~0.3.3",
+    "grunt-contrib-uglify": "~0.4.0",
+    "grunt-react": "~0.9.0",
+    "browserify": "~4.1.6",
+    "grunt-browserify": "~2.1.0",
+    "grunt-contrib-watch": "~0.6.1",
+    "load-grunt-tasks": "~0.4.0",
+    "grunt-contrib-connect": "~0.7.1",
+    "grunt-contrib-copy": "~0.5.0",
+    "grunt-contrib-compress": "~0.9.1",
+    "grunt-contrib-cssmin": "~0.10.0",
+    "grunt-contrib-clean": "~0.5.0",
+    "grunt-replace": "~0.5.1",
+    "grunt-contrib-sass": "~0.7.4",
+    "grunt-contrib-concat": "~0.5.0",
+    "grunt-filerev": "~0.2.1",
+    "grunt-line-remover": "0.0.2",
+    "uri-js": "~1.4.2"
+  },
+  "dependencies": {
+    "grunt-contrib-sass": "~0.7.3",
+    "react": "~0.11.1",
+    "socket.io-client": "~1.0.6"
+  }
+}
