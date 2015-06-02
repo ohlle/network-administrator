@@ -8,8 +8,9 @@ var Status = React.createClass({
     },
     render: function() {
         return <div>
+            Total mängd pengar: {this.props.totalmoney.toFixed(2)}<br/>
             Pengar: {this.props.money.toFixed(2)}<br/>
-            Mb/s: {this.props.packetSpeed}
+            Kb/s: {this.props.packetSpeed.toFixed(2)}
         </div>;
     }
 });
