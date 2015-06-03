@@ -1,9 +1,9 @@
 {
-  "name": "everysport-scoreboard-loader",
+  "name": "network-administrator",
   "version": "0.0.1",
   "repository": {
     "type": "git",
-    "url": "http://git.menmo.se:everysport/scoreboard-frontend.git"
+    "url": "https://github.com/ohlle/network-administrator.git"
   },
   "devDependencies": {
     "grunt": "~0.4.5",
